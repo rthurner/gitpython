@@ -14,6 +14,5 @@ and also an entry for shares without transactionns
 - read csv-file into dataframe
 - process the dataframe
 - store the dataframe as csv
-# store as to_excel does not work
-it works on colab but not on local 
-see error message
+- store as to_excel 
+
